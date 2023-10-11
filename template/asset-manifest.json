@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b29822b.css",
+    "main.js": "/static/js/main.188c1903.js",
+    "static/media/bookdetailbg.jpg": "/static/media/bookdetailbg.97c772878a9e06d8ae01.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/book4.jpg": "/static/media/book4.a401dab260781eb85747.jpg",
+    "static/media/footer.avif": "/static/media/footer.63237eeaa9bce7998208.avif",
+    "static/media/book2.jpg": "/static/media/book2.68b706b425ad53f8b87f.jpg",
+    "static/media/book3.jpg": "/static/media/book3.d7fdb60d504d59f22350.jpg",
+    "static/media/book1.jpg": "/static/media/book1.f300b54243a813a076e7.jpg",
+    "static/media/demoBookCover1.jpg": "/static/media/demoBookCover1.f300b54243a813a076e7.jpg",
+    "static/media/book7.jpg": "/static/media/book7.2af72bf93cb0db2c88a7.jpg",
+    "static/media/book6.jpg": "/static/media/book6.fcad3b866b87a1c92561.jpg",
+    "static/media/book8.jpg": "/static/media/book8.aa15050abc6fcd3b3084.jpg",
+    "static/media/logo.png": "/static/media/logo.a0847946e549460fe449.png",
+    "static/media/book5.jpg": "/static/media/book5.d4c60beba913be028b39.jpg",
+    "index.html": "/index.html",
+    "static/media/icon-plus.svg": "/static/media/icon-plus.0037a825a550965779412c2890bd328b.svg",
+    "static/media/icon-edit.svg": "/static/media/icon-edit.b0c7f9ebaec367bd3ae2539df8b55ff9.svg",
+    "static/media/icon-reply.svg": "/static/media/icon-reply.bfb4589d45cd96abd45e3b82f7e7bbc6.svg",
+    "static/media/icon-minus.svg": "/static/media/icon-minus.4aa6933cb1575b3c54fa67d84a61efaf.svg",
+    "static/media/icon-delete.svg": "/static/media/icon-delete.86cedbf2e37529f9c8f1f744254059b0.svg",
+    "main.6b29822b.css.map": "/static/css/main.6b29822b.css.map",
+    "main.188c1903.js.map": "/static/js/main.188c1903.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b29822b.css",
+    "static/js/main.188c1903.js"
+  ]
+}
